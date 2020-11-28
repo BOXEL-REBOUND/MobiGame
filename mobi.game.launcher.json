@@ -1,0 +1,7 @@
+{
+  "name": "mobi.game.launcher",
+  "description": "Chrome Native API Example Host",
+  "path": "Communicator.exe",
+  "type": "stdio",
+  "allowed_origins: ["chrome-extension://mgghghodeecakhjbfpjflfhhbabdlpcb/"]
+}
